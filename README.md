@@ -27,13 +27,13 @@ Persistent storage across sessions
 Real-time clock display
 Current date information
 
-project live link : 
+project live link : https://dushani-ekanayake.github.io/work-tracker-dashboard/
 
 screenshots 
 <img width="1853" height="1017" alt="Screenshot 2026-01-14 204255" src="https://github.com/user-attachments/assets/7e1cc563-9ada-4db6-8a92-2909b301bd50" />
 <img width="1775" height="964" alt="Screenshot 2026-01-14 204333" src="https://github.com/user-attachments/assets/96c6ffa2-eb4a-4c30-83bc-d13659778b32" />
 
-Usage
+✅Usage
 
 Add Task: Type in the input field and press Enter
 
@@ -44,7 +44,7 @@ Delete Task: Hover over a task and click the X icon
 Track Progress: View your analytics cards and weekly chart
 
 
-Technologies
+✅Technologies
 
 Pure HTML5
 
