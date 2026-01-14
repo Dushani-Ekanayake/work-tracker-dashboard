@@ -36,15 +36,22 @@ screenshots
 Usage
 
 Add Task: Type in the input field and press Enter
+
 Complete Task: Click the checkbox next to any task
+
 Delete Task: Hover over a task and click the X icon
+
 Track Progress: View your analytics cards and weekly chart
+
 
 Technologies
 
 Pure HTML5
+
 Vanilla CSS3
+
 Vanilla JavaScript (ES6+)
+
 LocalStorage for data persistence
 
 
