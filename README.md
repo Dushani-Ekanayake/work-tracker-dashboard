@@ -33,16 +33,34 @@ screenshots
 <img width="1853" height="1017" alt="Screenshot 2026-01-14 204255" src="https://github.com/user-attachments/assets/7e1cc563-9ada-4db6-8a92-2909b301bd50" />
 <img width="1775" height="964" alt="Screenshot 2026-01-14 204333" src="https://github.com/user-attachments/assets/96c6ffa2-eb4a-4c30-83bc-d13659778b32" />
 
-✅Usage
 
-Add Task: Type in the input field and press Enter
+✨ Features
+📊 Real-Time Analytics
 
-Complete Task: Click the checkbox next to any task
+Today's Completed: Track tasks finished today
+Completion Rate: View your overall productivity percentage
+Total Tasks: Monitor all tasks in your workflow
+Active Streak: Celebrate consecutive days of achievement
 
-Delete Task: Hover over a task and click the X icon
+📈 Weekly Activity Visualization
 
-Track Progress: View your analytics cards and weekly chart
+Interactive bar chart showing your last 7 days
+Automatic daily completion tracking
+Visual progress indicators
+Trend analysis at a glance
 
+✅ Intuitive Task Management
+
+Quick Add: Press Enter to create tasks instantly
+One-Click Completion: Mark tasks done with a single click
+Easy Deletion: Hover and remove with the X icon
+Persistent Storage: Your data stays safe across sessions
+
+⏰ Live Time Display
+
+Real-time clock with seconds
+Current date information
+Clean, readable typography
 
 ✅Technologies
 
